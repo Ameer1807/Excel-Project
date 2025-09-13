@@ -1,7 +1,7 @@
 # Excel-Portfolio Project
 Designed and built an interactive Excel dashboard using Power Query, Pivot Tables, and slicers to analyze KPIs like revenue, profit margin, and sales trends. Cleaned and transformed data, visualized insights, and delivered a stakeholder-ready reporting solution.
-📊 Excel Dashboard Project Summary
-✅ Problem Statement
+
+✅ Problem Statement:
 Develop a dynamic, interactive dashboard using Microsoft Excel to analyze business performance data and deliver actionable insights for strategic decision-making.
 
 🛠️ Tools & Technologies
