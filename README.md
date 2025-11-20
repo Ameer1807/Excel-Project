@@ -19,6 +19,7 @@ Designed and built an interactive Excel dashboard using Power Query, Pivot Table
 - Total Revenue
 - Profit Margin
 - Sales by Region
+- Budget analysis
 - Forecast analysis
 - Growth by Month%
 - Customer Segmentation
